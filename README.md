@@ -13,6 +13,15 @@ From terminal, run `flutter run` to run the app, choose `2` to run with chrome.
 ## Reload the app
 From terminal, press `r` or `R` to reload the app while the app is running to show the code changes.
 
+## Run with Android Emulator
+  1. Install Android studio (with all recommended settings and extensions).
+  2. Check for emulators in Flutter - `flutter emulator`.
+  3. Start/Run emulator using flutter - `flutter emulators --launch Pixel_3a_API_34_extension_level_7_x86_64` (`flutter emulators --launch <emulator_name>`).
+  4. Run `flutter run`.
+
+## Export `.apk` with flutter
+From terminal, run `flutter build apk --build-name=<build_name> --build-number=<build_number>`.
+
 ### The main code is present in `main.dart` in `lib/` directory.
 
 ## Assignment flow:
