@@ -10,8 +10,8 @@ const TaskDatabaseName = "Task";
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  const keyApplicationId = 'w42kSAR3oIfeYoOH51Gf8D62QGTgUZXzDZTf0zWN';
-  const keyClientKey = 'HALjrhHs1lzzN1PswYA2AwqO6GgQ5WRQKtguj0C7';
+  const keyApplicationId = '<key application id>'; // Add the key application ID
+  const keyClientKey = '<key client key>'; // Add the key client key
   const keyParseServerUrl = 'https://parseapi.back4app.com';
 
   await Parse().initialize(keyApplicationId, keyParseServerUrl,
