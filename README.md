@@ -1,4 +1,4 @@
-# fullter-back4app-tasks
+# flutter-back4app-tasks
 Assignment for Cross Platform App Development. It will create a Task application to help perform CRUD (Create, Read, Update, Delete) operations using flutter. The backend is running in Back4app. Client credentials are used to access the backend.
 
 ## Install dependencies:
