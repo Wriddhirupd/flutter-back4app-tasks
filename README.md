@@ -1,6 +1,9 @@
 # flutter-back4app-tasks
 Assignment for Cross Platform App Development. It will create a Task application to help perform CRUD (Create, Read, Update, Delete) operations using flutter. The backend is running in Back4app. Client credentials are used to access the backend.
 
+## Create flutter App:
+From terminal, run `flutter create <project name>` to create a new flutter App
+
 ## Install dependencies:
 Edit `pubspec.yaml` and run `flutter pub get` from terminal to install dependencies
 
